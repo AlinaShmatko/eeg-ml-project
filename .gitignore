@@ -1,0 +1,33 @@
+# EEG recordings
+data/raw/
+data/MNE-eegbci-data/
+*.edf
+*.edf.gz
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+._*
+__MACOSX/
+
+# Model checkpoints
+*.pkl
+*.joblib
+*.pt
+*.pth

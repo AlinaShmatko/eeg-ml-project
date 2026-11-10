@@ -1,0 +1,12 @@
+numpy==2.4.6
+pandas==3.0.6
+scipy==1.17.1
+scikit-learn==1.9.1
+mne==1.13.2
+torch==2.14.1
+braindecode==1.8.1
+matplotlib
+seaborn
+jupyterlab
+ipykernel
+pytest>=8,<10
